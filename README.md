@@ -52,14 +52,8 @@ The agent is designed to sit *on top of* a traditional data analysis pipeline.
 ---
 
 ## Project Structure
-```text
 ai-personal-finance-agent/
-├── app.py
-├── agent/
-│   ├── llm.py
-│   ├── memory.py
-│   ├── tools.py
-│   └── prompts.py
+├── code.py
 ├── data/
 ├── notebooks/
 ├── requirements.txt
