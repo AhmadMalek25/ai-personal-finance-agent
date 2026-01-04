@@ -1,6 +1,6 @@
-# Ahmad Finance Assistant 💬💰
+# Personal Finance Assistant 💬💰
 
-Ahmad Finance Assistant is a personal finance AI agent that allows you to **chat with your bank transactions** in a safe, transparent, and explainable way.
+Personal Finance Assistant is a personal finance AI agent that allows you to **chat with your bank transactions** in a safe, transparent, and explainable way.
 
 The project combines **data analytics** and **AI** while keeping a strict separation between:
 - data processing (Python & pandas)
